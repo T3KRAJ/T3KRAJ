@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm **Tekraj Joshi**, a passionate self taught **web developer** from Mahendranagar, Nepal.
+#### I'm **Tekraj Joshi**, a passionate self taught **web developer** from Mahendranagar, Nepal.
 
 - 👯 I’m looking to collaborate on anything I can help with
 - 🥅 2020 Goals: Become a full stack web developer
