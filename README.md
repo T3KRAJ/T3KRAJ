@@ -3,7 +3,6 @@
 <p align="center"> Hi, I'm <b>Tek Raj Joshi</b>, a self-motivated <b>Tech Enthusiast</b> and a passionate self taught <b>Web Developer.</b> </p>
 
   <p align="center">👯 Looking to collaborate on anything I can help with</br/>
-  🥅 2020 Goals: Become a full stack web developer<br/>
   📫 Contact me: <a href="mailto:tekrajjoshi07@gmail.com">T3KRAJ</a></p>
 
 ### Languages and tools:
