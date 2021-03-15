@@ -28,7 +28,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="center" alt="T3KRAJ's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=T3KRAJ&show_icons=true&hide_border=true" />
+  ![Tek Raj Joshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3KRAJ&show_icons=true)
 </details>
 
 ### Profile Views
