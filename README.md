@@ -26,10 +26,9 @@
 <br/>
 <br/>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  ![Tek Raj Joshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3KRAJ&show_icons=true)
-</details>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=T3KRAJ&theme=highcontrast)](https://github.com/T3KRAJ/github-readme-streak-stats)
+
 
 ### Profile Views
 
