@@ -1,7 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p align="center"> Hi, I'm <b>Tek Raj Joshi</b>, a self-motivated <b>Tech Enthusiast</b> and a passionate self taught <b>Web Developer.</b> </p>
-
   <p align="center">👯 Looking to collaborate on anything I can help with</br/>
   📫 Contact me: <a href="mailto:tekrajjoshi07@gmail.com">T3KRAJ</a></p>
 
