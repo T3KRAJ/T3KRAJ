@@ -29,6 +29,8 @@
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=T3KRAJ&theme=highcontrast)](https://github.com/T3KRAJ/github-readme-streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T3KRAJ&theme=highcontrast&count_private=true)](https://github.com/T3KRAJ/github-readme-stats)
+
 
 ### Profile Views
 
