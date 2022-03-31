@@ -1,10 +1,16 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Tek Raj Joshi </h1>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Tek Raj Joshi. </h2>
+<p align="center"> Software Developer | Looking to collaborate on anything that I can help with.
+<p align="center">
+<a href="https://tekjoshi.com.np"><img src="https://img.shields.io/badge/-tek%20raj%20joshi-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/T3KRAJ"><img src="https://img.shields.io/badge/-T3KRAJ-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/T3KRAJ"><img src="https://img.shields.io/badge/-T3KRAJ-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/code_nerd"><img src="https://img.shields.io/badge/-code_nerd-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://twitter.com/T3KRAJ"><img src="https://img.shields.io/badge/-T3KRAJ-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
-  <p align="center">👯 Looking to collaborate on anything I can help with.</br/>
-
-<p align="center"><b>Visitor's Count</b></p>
+<h3 align="center"><b>Visitor's Count</b></h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{T3KRAJ}/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T3KRAJ&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=T3KRAJ&theme=highcontrast")></p>
@@ -29,14 +35,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 
-### :link: &nbsp;Connect with me
 
-<p align="center">
-<a href="https://tekjoshi.com.np"><img src="https://img.shields.io/badge/-tek%20raj%20joshi-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/T3KRAJ"><img src="https://img.shields.io/badge/-T3KRAJ-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:tekrajjoshi07@gmail.com"><img src="https://img.shields.io/badge/-tekrajjoshi07@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/T3KRAJ"><img src="https://img.shields.io/badge/-T3KRAJ-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/code_nerd"><img src="https://img.shields.io/badge/-code_nerd-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://twitter.com/T3KRAJ"><img src="https://img.shields.io/badge/-T3KRAJ-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+
 
