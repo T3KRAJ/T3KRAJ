@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Tek Raj Joshi. </h2>
+<h2 align="center">Hi, I am Tek Raj Joshi. </h2>
 <p align="center"> Software Developer | Looking to collaborate on anything that I can help with.
 <p align="center">
 <a href="https://tekjoshi.com.np"><img src="https://img.shields.io/badge/-tek%20raj%20joshi-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
