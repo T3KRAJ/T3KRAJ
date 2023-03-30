@@ -5,7 +5,6 @@
 <p align="center">
 <a href="https://tekjoshi.com.np"><img src="https://img.shields.io/badge/-tek%20raj%20joshi-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/T3KRAJ"><img src="https://img.shields.io/badge/-T3KRAJ-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/T3KRAJ"><img src="https://img.shields.io/badge/-T3KRAJ-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://leetcode.com/code_nerd"><img src="https://img.shields.io/badge/-code_nerd-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://twitter.com/T3KRAJ"><img src="https://img.shields.io/badge/-T3KRAJ-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
