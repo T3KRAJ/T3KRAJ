@@ -11,7 +11,7 @@
 
 <h3 align="center"><b>Visitor's Count</b></h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{T3KRAJ}/count.svg" alt="visitor badge"/></p>
-<p align="center"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=t3kraj&layout=compact&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"></p>
+<p align="center"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=t3kraj&layout=compact&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php,html"></p>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=T3KRAJ&theme=highcontrast")></p>
 
   
