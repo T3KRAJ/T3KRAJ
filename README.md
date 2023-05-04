@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h2 align="center">Hi, I am Tek Raj Joshi. </h2>
-<p align="center"> Software Developer | Looking to collaborate on anything that I can help with.
+<p align="center"> Blockchain Developer | Looking to collaborate on anything that I can help with.
 <p align="center">
 <a href="https://tekjoshi.com.np"><img src="https://img.shields.io/badge/-tek%20raj%20joshi-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/T3KRAJ"><img src="https://img.shields.io/badge/-T3KRAJ-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -17,7 +17,7 @@
   
 
 ### 🛠 &nbsp;Tech Stack
-<img src="https://skillicons.dev/icons?i=js,typescript,react,next,python,django,solidity,tailwind,firebase" title="Javascript, Typescript, React.js, Next.js, Python, Django, Solidity, Tailwind, Firebase" alt="Javascript, Typescript, React.js, Next.js, Python, Django, Solidity, Tailwind, Firebase" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,typescript,next,python,django,solidity,git" title="Javascript, Typescript, React.js, Next.js, Python, Django, Solidity, Tailwind, Firebase" alt="Javascript, Typescript, React.js, Next.js, Python, Django, Solidity, Tailwind, Firebase" /> <br /><br />
 
 
 
